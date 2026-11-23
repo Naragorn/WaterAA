@@ -46,10 +46,11 @@ your saves.
 
 ## Works with
 
-- **OBVR**, FoliageAA and Oblivion Frame Fixes: tested together.
+- [OBVR](https://github.com/Naragorn/OBVR), [FoliageAA](https://github.com/Naragorn/FoliageAA) and
+  [Oblivion Frame Fixes](https://github.com/Naragorn/OblivionFrameFixes): tested together.
 - Water mods that change textures or settings: not tested yet, but they do
   not touch what WaterAA changes.
-- Anything that replaces the game's water shaders (Oblivion Reloaded and its
+- Anything that replaces the game's water shaders ([Oblivion Reloaded](https://www.nexusmods.com/oblivion/mods/52191) and its
   forks): WaterAA finds nothing it knows there and leaves the water alone.
 
 Tell me how it looks for you, either way.
